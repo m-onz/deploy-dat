@@ -1,7 +1,7 @@
 # deploy-dat
 helper script to deploy a dat as a HTTP server
 
-From a  linux server
+From a ubuntu aws ec2 linux server
 
 ```sh
 sudo chmod +x ./install_dat.sh
